@@ -1,0 +1,23 @@
+Caracteristicas do Projeto
+
+1 - Qual o tema do projeto?
+  -> A decidir. Possilidades:
+
+                    > Cadastro Escolar
+                    > Sistema de Consultoria Usando IA
+                    > Sistema de Diário/ Tarefas/ Calendário
+                    
+2 - Quantas telas vamos ter?
+
+  -> A decidir. Poucas telas para facilitar o desenvolvimento
+
+3 - Quais tipos de interações vamos ter?
+
+  -> Vamos ver depois que decidirmos o tema.
+
+4 - Qual linguagem e bibliotecas vamos utilizar?
+
+  -> Inicialmente vamos utilizar Python. Pensando em possiveis bibliotecas para desenvolvimento da interface:
+                    
+                    > Kivy
+                    > Flutter
