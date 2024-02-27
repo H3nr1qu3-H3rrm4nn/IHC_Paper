@@ -12,6 +12,7 @@ as habilidades da BNCC, fluxograma da aula, metodologia da aula, referências, p
 2 - Quantas telas vamos ter?
 
   -> A decidir. Poucas telas para facilitar o desenvolvimento
+  -> Uma das telas pode ser um dashboard?! (https://www.hashtagtreinamentos.com/dashboard-2?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYYD4JtMWtmqI44bhRTS_4283o944Pn0OwcxD-_IAFQTwCliO0BEFRRoCvNwQAvD_BwE)
 
 3 - Quais tipos de interações vamos ter?
 
@@ -23,4 +24,6 @@ as habilidades da BNCC, fluxograma da aula, metodologia da aula, referências, p
                     
                     > Kivy
                     > Flutter
-                    > tkinter
+                    > Tkinter
+                    > Django (O Django é uma opção mais robusta para desenvolvimento web, sendo um dos concorrentes do Flask. Possui uma ótima documentação para ajudar em questões e 
+dúvidas do dia a dia. Permite controlar autenticação, roteamento de URLs, interface de dashboards, cache, otimização de endereços URLs e muito mais.)
