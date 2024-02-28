@@ -1,18 +1,33 @@
 Caracteristicas do Projeto
 
 1 - Qual o tema do projeto?
-  -> A decidir. Possilidades:
 
-                    > Cadastro Escolar
-                    > Sistema de Consultoria Usando IA
-                    > Sistema de Diário/ Tarefas/ Calendário
+
                     > Planejamento Aulas e Plano de Ensino do Ensino Básico  (tema da aula, série, duração da aula, objetivo a ser alcançado pelos alunos, conteúdo da aula conforme 
-as habilidades da BNCC, fluxograma da aula, metodologia da aula, referências, processos avaliativos) - A ideia seria um programinha tipo "gestor pedagógico".
-                    
+as habilidades da BNCC, fluxograma da aula, metodologia da aula, referências, processos avaliativos) - A ideia seria um programinha tipo "gestor pedagógico". <-------------
+
+
 2 - Quantas telas vamos ter?
 
-  -> A decidir. Poucas telas para facilitar o desenvolvimento
-  -> Uma das telas pode ser um dashboard?! (https://www.hashtagtreinamentos.com/dashboard-2?gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYYD4JtMWtmqI44bhRTS_4283o944Pn0OwcxD-_IAFQTwCliO0BEFRRoCvNwQAvD_BwE)
+  -> Dashboard como tela inicial
+    ->> Turmas do professor (engloba ano e disciplina)
+      ->>> Ementa
+      ->>> Cronograma de aulas
+        >>>> Recursos didáticos 
+          <> Reserva de materiais como transporte, datashow, salas, auditórios.
+        >>>> Duração
+        >>>> Descrição
+        >>>> Metodologia
+        >>>> Avaliações
+      ->>> Alunos matriculados
+        >>>> Notas
+          <> Aprovado ou não.
+        >>>> Observações
+        >>>> Presenças
+    ->> Calendário Acadêmico com destaque para as atividades do dia.
+
+      
+
 
 3 - Quais tipos de interações vamos ter?
 
